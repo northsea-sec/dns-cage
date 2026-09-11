@@ -1,0 +1,4 @@
+/dns-cage
+*.test
+coverage.out
+*.prof
